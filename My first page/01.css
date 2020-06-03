@@ -1,0 +1,56 @@
+*{
+/*  htgfegfgrhgrgdhggdsgfgdsfsfdsgfgfd  */	
+	margin: 0;
+	padding: 0;
+}
+
+#wrap{
+
+	margin: 0 auto;
+	text-align: center;
+}
+
+#nheader{
+	background-color: purple;
+	background-position: bottom left;
+	padding: 25px;
+	height: 150px;
+	background-image: url('images/4.jpg');
+	
+}
+
+h1{
+	color: #7FFF00;
+}
+img{
+	border: dashed 5px #7FFF00;
+}
+
+#npara{
+	background: url('images/5.jpg') fixed bottom left #3498db;
+	height: 350px;
+	padding: 30px;
+}
+
+.text_para{
+	color: #ecf0f1;
+	font-size: 30px;
+	font-family: Verdana;
+
+}
+
+.redColor{
+	color: yellow;
+}
+
+#footer{
+	background-color: purple;
+	padding: 50; 
+}
+
+
+
+
+
+
+
