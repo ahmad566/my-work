@@ -15,7 +15,7 @@
 	background-position: bottom left;
 	padding: 25px;
 	height: 150px;
-	background-image: url("4.jpg");
+	background-image: url('4.jpg');
 	
 }
 
@@ -27,7 +27,7 @@ img{
 }
 
 #npara{
-	background: url("5.jpg") fixed bottom left #3498db;
+	background: url('5.jpg') fixed bottom left #3498db;
 	height: 350px;
 	padding: 30px;
 }
