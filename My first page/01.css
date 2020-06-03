@@ -27,7 +27,7 @@ img{
 }
 
 #npara{
-	background: url('5.jpg') fixed bottom left #3498db;
+	background: url("5.jpg") fixed bottom left #3498db;
 	height: 350px;
 	padding: 30px;
 }
